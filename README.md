@@ -1,3 +1,5 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4922e8299be043399edddfa95e974ebc)](https://www.codacy.com/manual/idoodler/MMM-RPI-LED?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=idoodler/MMM-RPI-LED&amp;utm_campaign=Badge_Grade)
+
 # MMM-RPI-LED
 This is a module for the [MagicMirror²](https://github.com/MichMich/MagicMirror/).
 
